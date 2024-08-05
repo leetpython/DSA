@@ -1,0 +1,11 @@
+{
+    "name": "Reverse Linked List",
+    "id": "reverse-linked-list",
+    "url": "https://leetcode.com/problems/reverse-linked-list/",
+    "difficulty": "Easy",
+    "tags": [
+        "Linked List",
+        "Recursion"
+    ],
+    "keywords": []
+}
