@@ -1,0 +1,12 @@
+{
+    "name": "Count Number of Teams",
+    "id": "count-number-of-teams",
+    "url": "https://leetcode.com/problems/count-number-of-teams/",
+    "difficulty": "Medium",
+    "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Binary Indexed Tree"
+    ],
+    "keywords": []
+}
