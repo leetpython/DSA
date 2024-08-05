@@ -1,0 +1,13 @@
+{
+    "name": "Kth Distinct String in an Array",
+    "id": "kth-distinct-string-in-an-array",
+    "url": "https://leetcode.com/problems/kth-distinct-string-in-an-array/",
+    "difficulty": "Easy",
+    "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Counting"
+    ],
+    "keywords": []
+}
